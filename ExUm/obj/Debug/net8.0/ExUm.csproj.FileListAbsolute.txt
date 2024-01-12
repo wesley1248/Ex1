@@ -1,0 +1,14 @@
+c:\Users\wesle\OneDrive\Documentos\estudos\LogicaProgramacao\Ex1\ExUm\bin\Debug\net8.0\ExUm.exe
+c:\Users\wesle\OneDrive\Documentos\estudos\LogicaProgramacao\Ex1\ExUm\bin\Debug\net8.0\ExUm.deps.json
+c:\Users\wesle\OneDrive\Documentos\estudos\LogicaProgramacao\Ex1\ExUm\bin\Debug\net8.0\ExUm.runtimeconfig.json
+c:\Users\wesle\OneDrive\Documentos\estudos\LogicaProgramacao\Ex1\ExUm\bin\Debug\net8.0\ExUm.dll
+c:\Users\wesle\OneDrive\Documentos\estudos\LogicaProgramacao\Ex1\ExUm\bin\Debug\net8.0\ExUm.pdb
+c:\Users\wesle\OneDrive\Documentos\estudos\LogicaProgramacao\Ex1\ExUm\obj\Debug\net8.0\ExUm.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wesle\OneDrive\Documentos\estudos\LogicaProgramacao\Ex1\ExUm\obj\Debug\net8.0\ExUm.AssemblyInfoInputs.cache
+c:\Users\wesle\OneDrive\Documentos\estudos\LogicaProgramacao\Ex1\ExUm\obj\Debug\net8.0\ExUm.AssemblyInfo.cs
+c:\Users\wesle\OneDrive\Documentos\estudos\LogicaProgramacao\Ex1\ExUm\obj\Debug\net8.0\ExUm.csproj.CoreCompileInputs.cache
+c:\Users\wesle\OneDrive\Documentos\estudos\LogicaProgramacao\Ex1\ExUm\obj\Debug\net8.0\ExUm.dll
+c:\Users\wesle\OneDrive\Documentos\estudos\LogicaProgramacao\Ex1\ExUm\obj\Debug\net8.0\refint\ExUm.dll
+c:\Users\wesle\OneDrive\Documentos\estudos\LogicaProgramacao\Ex1\ExUm\obj\Debug\net8.0\ExUm.pdb
+c:\Users\wesle\OneDrive\Documentos\estudos\LogicaProgramacao\Ex1\ExUm\obj\Debug\net8.0\ExUm.genruntimeconfig.cache
+c:\Users\wesle\OneDrive\Documentos\estudos\LogicaProgramacao\Ex1\ExUm\obj\Debug\net8.0\ref\ExUm.dll
